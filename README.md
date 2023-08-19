@@ -1,4 +1,4 @@
-## PyInternsAug23
+
 
 > 1. __Introduction to Python__
 - [ ]  Python Overview
