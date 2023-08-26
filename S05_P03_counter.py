@@ -24,3 +24,4 @@ print(data)
 print(" -ve : ",neg)
 print(" +ve : ",pos)
 print("zero : ",zero)
+
