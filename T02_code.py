@@ -1,38 +1,40 @@
 
 
 #
-x = int(input("Enter the number : ")) # 5
+x = int(input("Enter the number :")) #5
 
 # break : terminate the loop
 # continue : skip the remaining part of the iteration.
-for i in range(1,101): 
-    if i%7 != 0 :
+for i in range (1, 101):
+
+    if i%7!=0:
+        #break
         pass
         continue
-    # no part to skip.
-    # t   
-    print(i,end = ", ")
+    # no part to skip
+    # t
+    print(i, end = ",")
 
-print("....")
+print(".....")
 
 
- 
-def reverse(userName):
+
+def reverse(username):
     return int(float('29.44'));
 
-x = reverse("GK")
+X = reverse ("GK")
 print(x)
 
 import random
 
 def show():
-    x =  int(random.random()*100)
-    print("coder ",x)
+    x = int(random.random())*100
+    print("coder",x)
     return
 
 
 x = show()
-print("show : ",x)
+print("show :",x)
 
 # with return
 
