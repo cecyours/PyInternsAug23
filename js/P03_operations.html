@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1 id="output"></h1>
+
+    <script>
+      let x = 10;
+
+      let y = 28;
+
+      let z = x + y;
+
+      var ouput = document.getElementById("output");
+      output.innerHTML = x + " + " + y + " = " + z;
+
+      z = x - y;
+    //   x+=10
+      ouput.innerHTML += "<hr>"+x + " - " + y + " = " + z;
+    </script>
+  </body>
+</html>

@@ -1,4 +1,11 @@
+# technologies
 
+- [x] python basic
+- [x] html5
+- [ ] css3, bootstrap
+- [ ] js
+- [ ] jquery
+- [ ] django
 
 > 1. __Introduction to Python__
 - [ ]  Python Overview
